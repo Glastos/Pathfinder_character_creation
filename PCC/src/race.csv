@@ -1,0 +1,8 @@
+Race,Type,Sous-type,Taille,Vitesse,Vision,Vision_dist,Language,For,Dex,Con,Int,Sag,Cha
+Humain,humanoide,humain,M,9m,Normale,,Commun,0,0,0,0,0,0
+Demi-Elfe,humanoide,humain;elfe,M,9m,Nocturne,,Commun;Elfe,0,0,0,0,0,0
+Demi-Orque,humanoide,humain;orque,M,9m,Dans le noir,18m,Commun;Orque,0,0,0,0,0,0
+Elfe,humanoide,elfe,M,9m,Nocturne,,Commun;Elfe,0,2,-2,2,0,0
+Nain,humanoide,nain,M,6m,Dans le noir,18m,Commun;Nain,0,0,2,0,2,-2
+Halfelin,humanoide,halfelin,P,6m,Normale,,Commun;Halfelin,-2,2,0,0,0,2
+Gnome,humanoide,gnome,P,6m,Nocturne,,Commun;Gnome;Sylvestre,-2,0,2,0,0,2
